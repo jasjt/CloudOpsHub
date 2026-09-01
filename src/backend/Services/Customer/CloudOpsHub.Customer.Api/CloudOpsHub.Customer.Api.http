@@ -1,0 +1,6 @@
+@CloudOpsHub.Customer.Api_HostAddress = http://localhost:5184
+
+GET {{CloudOpsHub.Customer.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

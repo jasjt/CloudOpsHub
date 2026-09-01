@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/backend/.vs/CloudOpsHub
+/src/backend/Services/Customer/CloudOpsHub.Customer.Api/bin/Debug/net9.0
+/src/backend/Services/Customer/CloudOpsHub.Customer.Api/obj
