@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CloudOpsHub
 
 CloudOpsHub is a cloud-native business operations and document management
@@ -30,3 +29,6 @@ architecture using .NET, Angular, Blazor and AWS.
 
 Documentation will be maintained under `/docs`.
 
+## Status
+
+🚧 Under active development.
